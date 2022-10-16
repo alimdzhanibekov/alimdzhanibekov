@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @alimdzhanibekov
+- 👀 I’m interested in front-end
